@@ -1,6 +1,6 @@
 " My expertly curated vimrc file
 " J. Macoskey
-" For more information, see the following website:
+" For a good start on your own, see the following website:
 " https://realpython.com/blog/python/vim-and-python-a-match-in-heaven/
 "
 set nocompatible
